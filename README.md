@@ -11,7 +11,7 @@
 
 - 📖 I’m currently working on [a Quest Game](https://github.com/NotAymanm/Quest-Game)
 
-- 👨‍💻 All of my projects are available at [portfolio-notaymanms-projects.vercel.app](portfolio-notaymanms-projects.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-notaymanms-projects.vercel.app](https://portfolio-notaymanms-projects.vercel.app)
 
 - 📫 How to reach me **aymanmadani14@gmail.com**
 
