@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notaymanm&label=Profile%20views&color=c21e1e&style=flat" alt="notaymanm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notaymanm" alt="notaymanm" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=notaymanm" alt="notaymanm" /></a> </p>
 
 - 📖 I’m currently working on [a Quest Game](https://github.com/NotAymanm/Quest-Game)
 
